@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/moviecontroller.ts","./src/middleware/authmiddleware.ts","./src/models/movie.ts","./src/routes/movieroutes.ts","./src/utils/cache.ts"],"version":"5.7.2"}
